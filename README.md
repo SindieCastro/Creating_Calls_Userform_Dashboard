@@ -11,14 +11,14 @@ To create a userform for organizations to document their call volume, reason for
 ## Results
 Step 1: The user is asked to select "Data Entry", "Open Dashboard", or "Save and Exit" (See Picture 1).
 
-Picture 1: Start
+Image 1: Start
 ![start.png](https://github.com/SindieCastro/Creating_Calls_Userform_Dashboard/blob/main/Images/start.PNG?raw=true)
 
 
-The userform allows organizations to have 3 usernames and passwords but other macros can be added to add other users. Currently, use "username1" as the user name and "123" as password (See Picture 1). The form is currently reflecting counties in Florida, but this can de replaced by other states.
+The userform allows organizations to have 3 usernames and passwords but other macros can be added to add other users. Currently, use "username1" as the user name and "123" as password (See Image 2). The form is currently reflecting counties in Florida, but this can de replaced by other states.
 
 Picture 1. Sign in form
 
-A dashboard is displayed to visualize the data. Picture 2 shows displays the dashboard. There are hidden sheets used to analyze the data. These sheets can be viewed by changing the macro or simple uncommenting (See Picture 3).
+A dashboard is displayed to visualize the data. Picture 2 shows displays the dashboard. There are hidden sheets used to analyze the data. These sheets can be viewed by changing the macro or simple uncommenting (See Image 3).
 
 ## Summary
