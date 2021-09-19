@@ -9,6 +9,12 @@ Created a userform for an organization to document customer calls and a dashboar
 To create a userform for organizations to document their call volume, reason for calls, and location of calls.
 
 ## Results
+Step 1: The user is asked to select "Data Entry", "Open Dashboard", or "Save and Exit" (See Picture 1).
+
+Picture 1: Start
+
+
+
 The userform allows organizations to have 3 usernames and passwords but other macros can be added to add other users. Currently, use "username1" as the user name and "123" as password (See Picture 1). The form is currently reflecting counties in Florida, but this can de replaced by other states.
 
 Picture 1. Sign in form
