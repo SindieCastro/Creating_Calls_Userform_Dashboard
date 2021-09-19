@@ -2,10 +2,10 @@
 Created a userform for an organization to document customer calls and a dashboard
 
 ## Purpose
-Create a userform for organitions to dument their call volume, reason for calls, and location of calls.
+To create a userform for organitions to dument their call volume, reason for calls, and location of calls.
 
 ## Results
-The userform allows organitions to have 3 usernames and passwords but other macros can be added to add other users. Currently, use "username1" as the user name and "123" as password (See Picture 1). THe form is currently reflecting counties in Florida, but this can de replaced by other states.
+The userform allows organizations to have 3 usernames and passwords but other macros can be added to add other users. Currently, use "username1" as the user name and "123" as password (See Picture 1). The form is currently reflecting counties in Florida, but this can de replaced by other states.
 
 Picture 1. Sign in form
 
